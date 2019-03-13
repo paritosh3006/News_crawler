@@ -1,0 +1,29 @@
+{
+	"Hindustan Times": {
+		"link": "https://www.hindustantimes.com/"
+	},
+	"timesofindia": {
+		"rss": "https://timesofindia.indiatimes.com/rss.cms",
+		"link": "https://timesofindia.indiatimes.com/"
+	},
+	"India - BBC News": {
+		"rss": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+		"link": "https://www.bbc.com/news/world/asia/india"
+	},
+  "The Indian Express": {
+    "link": "https://indianexpress.com/"
+  },
+  "firstpost": {
+    "link": "https://www.firstpost.com/"
+  },
+  "indiatimes": {
+    "link": "https://www.indiatimes.com/"
+  },
+  "ndtv": {
+    "link": "https://www.ndtv.com/"
+  },
+  "thehindu": {
+    "rss": "https://www.thehindu.com/rssfeeds/",
+    "link": "https://www.thehindu.com/"
+  }
+}
